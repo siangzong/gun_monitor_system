@@ -1,0 +1,17 @@
+00:35:01,T91_1,Tien,in
+00:35:16,T91_2,Huang,in
+00:35:22,T91_3,Wang,in
+00:35:27,T91_4,Yang,out
+00:35:59,T91_2,Huang,out
+00:36:05,T91_1,Tien,out
+00:36:10,T91_3,Wang,out
+00:36:22,T91_1,Tien,in
+00:36:27,T91_2,Huang,in
+00:36:32,T91_3,Wang,in
+00:36:39,T91_4,Yang,in
+00:50:39,T91_4,Yang,out
+00:54:01,T91_3,Wang,out
+00:54:06,T91_2,Huang,out
+00:54:24,T91_4,Yang,in
+00:54:31,T91_3,Wang,in
+00:54:40,T91_2,Huang,in
